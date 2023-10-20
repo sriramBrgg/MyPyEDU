@@ -14,7 +14,7 @@ CREATE TABLE customers
 
 
 
-insert into customers values ('101','Mukund','Mumbai','Thane','Maharstra','421305'),
+insert into customers values ('101','Sriram','Mumbai','Thane','Maharstra','421305'),
 ('102','Rahul','Mumbai','Bhiwandi','Maharstra','421306'),
 ('103','Ankit','Mumbai','Thane','Maharstra','421307'),
 ('104','Raj','Mumbai','Dombivali','Maharstra','421308'),
@@ -39,7 +39,7 @@ CREATE TABLE OrderProduct
 
 TRUNCATE table OrderProduct;
 
-insert into OrderProduct values ('101','Mukund','Mobile','Mumbai','Thane','Maharstra','421305'),
+insert into OrderProduct values ('101','sriram','Mobile','Mumbai','Thane','Maharstra','421305'),
 ('102','Rahul','Laptop','Mumbai','Bhiwandi','Maharstra','421306'),
 ('103','Ankit','Pen','Mumbai','Thane','Maharstra','421307'),
 ('104','Raj','Bike','Mumbai','Dombivali','Maharstra','421308'),
